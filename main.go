@@ -13,6 +13,7 @@ import (
 	"go.uber.org/zap"
 )
 
+// Testing
 //Entry point of the program
 func main() {
 	logger, _ := zap.NewProduction() // Create Uber's Zap logger
