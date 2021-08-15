@@ -1,7 +1,7 @@
 package router
 
 import (
-	"assignment/controller"
+	"github.com/NikhilChoudhary001/ibmassignment/controller"
 
 	"github.com/gorilla/mux"
 )

@@ -1,11 +1,12 @@
 package controller
 
 import (
-	"assignment/domain"
 	"encoding/json"
 	"fmt"
 	"net/http"
 	"reflect"
+
+	"github.com/NikhilChoudhary001/ibmassignment/domain"
 
 	"github.com/gorilla/mux"
 	"go.uber.org/zap"

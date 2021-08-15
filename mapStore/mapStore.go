@@ -1,7 +1,7 @@
 package mapStore
 
 import (
-	"assignment/domain"
+	"github.com/NikhilChoudhary001/ibmassignment/domain"
 )
 
 type MapStore struct {
