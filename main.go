@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/NikhilChoudhary001/ibmassignment/controller"
-	"github.com/NikhilChoudhary001/ibmassignment/mapStore"
-	"github.com/NikhilChoudhary001/ibmassignment/router"
+	"github.com/nikhilchoudhary001/ibmassignment/controller"
+	"github.com/nikhilchoudhary001/ibmassignment/mapStore"
+	"github.com/nikhilchoudhary001/ibmassignment/router"
 
 	"log"
 	"net/http"

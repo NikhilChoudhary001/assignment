@@ -1,4 +1,4 @@
-module github.com/NikhilChoudhary001/ibmassignment
+module github.com/nikhilchoudhary001/ibmassignment
 
 go 1.14
 

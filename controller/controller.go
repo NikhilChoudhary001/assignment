@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"reflect"
 
-	"github.com/NikhilChoudhary001/ibmassignment/domain"
+	"github.com/nikhilchoudhary001/ibmassignment/domain"
 
 	"github.com/gorilla/mux"
 	"go.uber.org/zap"

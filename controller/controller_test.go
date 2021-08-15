@@ -7,8 +7,8 @@ import (
 	"net/http/httptest"
 	"strings"
 
-	"github.com/NikhilChoudhary001/ibmassignment/controller"
-	"github.com/NikhilChoudhary001/ibmassignment/domain"
+	"github.com/nikhilchoudhary001/ibmassignment/controller"
+	"github.com/nikhilchoudhary001/ibmassignment/domain"
 
 	"github.com/gorilla/mux"
 	. "github.com/onsi/ginkgo"
